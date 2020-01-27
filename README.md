@@ -1,10 +1,10 @@
 ## Aavewatch
 Avvewatch is meant to be the successor of https://lendwatch.now.sh
 For now this repository is just collecting feature requests.
-Will try to move code and deployments to this repo in the upcoming weeks - after all that's just a hobby side project.
+Will try to move code and deployments to this repo in the upcoming weeks - after all that's just a hobby / side project.
 
 ### Contribute
-Feel free to contribute code & feature requests in terms of data you'd like to be plotted.
+Feel free to contribute code & feature requests (data you'd like to see plotted/dsplayed).
 
 ### History
 In the beginning of 2020 https://aave.com launched their decentralized lending platform bringing some cool features like flash-loans and decentralized governance.
